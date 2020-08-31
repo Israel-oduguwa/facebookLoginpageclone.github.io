@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+nav{
+    background-color:rgb(0, 42, 127);
+    min-height:10vh;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.logins{
+    display:flex;
+    justify-content: space-between!important;
+  
+}
+.facebook-logo{
+    color: white;
+    font-family:"Poppins";
+    font-size: 5vh;
+    margin-top: 2vh;
+}
+.b2-log{color:white;
+    background: rgb(2, 2, 185);
+    border: 1px solid rgb(1, 1, 139);
+}
+
+body{
+    background-color: rgba(137,143,156,0.2);
+}
+input{
+    background: white;
+    border-radius:2px; 
+    border: 1px solid rgb(188, 185, 185);
+}
+.left-991{
+    margin-top: 10vh;
+}
+.connect-intro{
+    font-size: 4.3vh;
+    font-weight: 500;
+}
+.features{
+    display: flex!important;
+    
+}
+.right-991{
+    margin-top: 4vh;
+}
